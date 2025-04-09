@@ -9,6 +9,9 @@ const Layout = ({children}) => {
         <ul>
             <li>
                 <Link to={`/`}>Home</Link>
+
+            </li>
+            <li>
                 <Link to={`/women`}>Women</Link>
             </li>
         </ul>
